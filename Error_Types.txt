@@ -1,0 +1,1 @@
+Error Type 1: 'AAA' was reduced to a negative number
