@@ -1,0 +1,19 @@
+This is a "for fun" programing project intended to increase my own knowledge and experience of the python programming language.  In the future, I may decide to mirror the program in other languages to learn them.
+
+
+
+
+The software's purpose would be to be used in an automated warehouse.  
+
+
+Current Features:
+
+
+
+
+Future Features:
+
+* Create and maintain a database of product information and locations
+* Give storage and retrieval commands to a robotic warehouse system
+* Optimize shelf space usage for maximum product storage
+* Learn common product groupings and store accordingly to minimize retrieval times.
